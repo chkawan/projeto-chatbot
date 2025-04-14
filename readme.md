@@ -42,7 +42,7 @@ menu
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/whatsapp-bot.git
+git clone https://github.com/chkawan/projeto-chatbot.git
 cd whatsapp-bot
 ```
 
