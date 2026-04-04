@@ -114,4 +114,4 @@ Este projeto é de uso livre para estudos e testes. Adapte conforme necessário 
 
 ---
 
-Desenvolvido com 💻 por Christopher Kawan
+Desenvolvido por Christopher Kawan
